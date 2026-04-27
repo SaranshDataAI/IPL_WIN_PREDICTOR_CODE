@@ -1,4 +1,4 @@
-[README_IPL_AI_Win_Predictor.md](https://github.com/user-attachments/files/27115079/README_IPL_AI_Win_Predictor.md)
+
 # 🏏 IPL AI Win Predictor
 
 An advanced real-time cricket match win probability prediction system built using Machine Learning, FastAPI, and Firebase.
